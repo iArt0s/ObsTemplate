@@ -1,0 +1,33 @@
+{
+  "palette": {
+    "seed": 4,
+    "selected": "adaptive-soft",
+    "custom": "213d5b-2f5277-3d6893-4b7ead-59a3c9"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "React": 1,
+    "ArtsLair": 2,
+    "Daily": 3,
+    "Summary": 4,
+    "Socials": 5,
+    "Орловский": 6,
+    "info": 7,
+    "Орловский/info": 1,
+    "Job": 8,
+    "Орловский/правила": 2,
+    "Coding": 9,
+    "Coding/tweaks": 1,
+    "work": 10,
+    "work/pbase": 1,
+    "work/pbase/backlog": 1,
+    "task": 11,
+    "T": 12,
+    "ToBeSorted": 13
+  },
+  "_version": 3
+}

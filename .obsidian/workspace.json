@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "01c5d0938584ba2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8aca9d908c88d4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb2cb70e19c6ec4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Соц.сети/Other/Анкеты.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Анкеты"
+            }
+          },
+          {
+            "id": "c3f6fcc2c37d19d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Мини-функции и твики.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Мини-функции и твики"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c76bc72741eb1005",
+    "type": "split",
+    "children": [
+      {
+        "id": "f722a63e3255c565",
+        "type": "tabs",
+        "dimension": 64.78220574606117,
+        "children": [
+          {
+            "id": "d6ccb1bf139a719c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "55ceed0fda783a85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f38de12a088a5c12",
+        "type": "tabs",
+        "dimension": 35.217794253938834,
+        "children": [
+          {
+            "id": "9e5d95b8a21cb710",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.5
+  },
+  "right": {
+    "id": "04fe48161adad2fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "db5c268f49535778",
+        "type": "tabs",
+        "dimension": 33.75,
+        "children": [
+          {
+            "id": "19b3314183731321",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Работа/PBase/Backlog/Backlog Q2.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Backlog Q2"
+            }
+          },
+          {
+            "id": "d53cb3fe0a3dfa2d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Работа/PBase/Backlog/Backlog Q2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Backlog Q2"
+            }
+          },
+          {
+            "id": "ac2af13516d5040b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1a4e2684644504e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Работа/PBase/Backlog/Backlog Q2.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Backlog Q2"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "6091d7bce031f258",
+        "type": "tabs",
+        "dimension": 33.75,
+        "children": [
+          {
+            "id": "ba726e89f23ab770",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7da6262bb0ae2438",
+        "type": "tabs",
+        "dimension": 32.5,
+        "children": [
+          {
+            "id": "d6bdb0f168b5d225",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c3f6fcc2c37d19d8",
+  "lastOpenFiles": [
+    "Соц.сети/Other/Анкеты.md",
+    "Личное/Заметки/Tutorials/JetBrains hack.md",
+    "Coding/Мини-функции и твики.md",
+    "Inbox/Для быстрых заметок.md",
+    "Соц.сети/Other/v4f.md",
+    "Работа/PBase/Backlog/Backlog Q2.md",
+    "Работа/Подготовка к собеседованиям/Сопроводительные и CV/Сопроводительные.md",
+    "Личное/Заметки/Tutorials",
+    "Соц.сети/Орловский/Шапка чата.md",
+    "Соц.сети/Орловский/Правила публикации объявления.md",
+    "2025-04-04.md",
+    "Coding",
+    "Соц.сети/Art's Lair/Sunday October 13th 2024 20-06.md",
+    "Личное/Заметки",
+    "Работа/Подготовка к собеседованиям/Сопроводительные.md",
+    "Работа/Подготовка к собеседованиям/Sunday October 13th 2024 20-25.md",
+    "Работа/Подготовка к собеседованиям/Сопроводительные и CV",
+    "Работа/Подготовка к собеседованиям/untitled folder",
+    "Соц.сети/Art's Lair/Sunday October 13th 2024 20-07.md",
+    "Соц.сети/Art's Lair/Sunday October 13th 2024 20-04.md",
+    "Соц.сети/Art's Lair/Sunday October 13th 2024 20-03.md",
+    "Соц.сети/Art's Lair/Sunday October 13th 2024 20-01.md",
+    "Соц.сети/Art's Lair/Sunday October 13th 2024 19-53.md",
+    "Соц.сети/Art's Lair/202410131917.md",
+    "Соц.сети/Art's Lair/202410131916.md",
+    "Соц.сети/Art's Lair/202410131915.md",
+    "Соц.сети/Art's Lair/202410131914.md",
+    "Соц.сети/Art's Lair/2024-11-28 1.md",
+    "Соц.сети/Art's Lair/2024-11-28.md",
+    "Соц.сети/Art's Lair/202410131911.md",
+    "Работа/Подготовка к собеседованиям/Теория/JS шпора.md",
+    "Личное/Списки",
+    "Личное",
+    "Работа/Подготовка к собеседованиям/Теория",
+    "untitled folder",
+    "Работа/Подготовка к собеседованиям"
+  ]
+}
